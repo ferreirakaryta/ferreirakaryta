@@ -1,7 +1,7 @@
 ## Olá, sou a Karyta Martins!
 
-- 🔭 Sou iniciante na área de TI
-- 🌱 Estou aprendendo Java e participando do programa 1000devs.
+- 🔭 Sou júnior na área de TI
+- 🌱 Estou fazendo faculdade de Engenharia de Software na ULBRA-Palmas.
 - 😄 Pronouns:ela/dela
 - 📫 Contate-me no e-mail: karyta.fer.mar@gmail.com
 ##
